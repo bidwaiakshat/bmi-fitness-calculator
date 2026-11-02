@@ -10,7 +10,6 @@ The project demonstrates Python programming, basic mathematical calculations, us
 
 ## Features
 
-- Name input field
 - Interactive weight slider
 - Interactive height slider
 - BMI calculation
@@ -35,24 +34,6 @@ BMI = 60 / (1.70 × 1.70) ≈ 20.76
 ## Installation
 
 Make sure Python is installed on your computer.
-
-Clone the repository:
-
-```bash
-git clone https://github.com/YOUR-USERNAME/bmi-fitness-calculator.git
-```
-
-Navigate to the project directory:
-
-```bash
-cd bmi-fitness-calculator
-```
-
-Install the required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
 
 ## How to Run
 
